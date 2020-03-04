@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Shorting Palladium"
+categories: [trading, commodities]
+---
 In my first ever trading blog post, I keep track of the thought process that lead me to short palladium. 
 
 # Introduction 
@@ -7,16 +12,10 @@ The production tonnage goes as [follows](http://www.platinum.matthey.com/documen
 
 
 
-
-    Text(0.5, 1.0, 'Supply in 2018, metric tons')
-
-
-
-
 ![png](/images/platinum-palladium-rhodium_5_1.png)
 
 
-* South Africa and Russia are the two main supplyers of the metals. For platinum and rhodium, supply is almost entirely dependant on South Africa. 
+* South Africa and Russia are the two main suppliers of the metals. Platinum and rhodium are almost entirely supplied by South Africa. 
 * For comparison, there is 10x less palladium mined per year than gold. 
 * Given this relatively small and concentrated supply on one hand, and increasingly tight pollution regulations on the other hand, we expect the price of these commodities to be volatile. 
 
@@ -25,12 +24,8 @@ So, let's explore the past and current price action.
 # Individual price analysis
 
 To profit from the market, we must find a commodity that is undervalued or overvalued and whose price will correct quickly. 
-Let's look at the inflation-ajusted price to compare valuations over long time scales. 
+Let's look at the inflation-adjusted price to compare valuations over long time scales. 
 
-
-
-
-    Text(0.5, 0, '')
 
 
 
@@ -46,9 +41,6 @@ To determine if the price of commodity is stretched with respect to historic val
 
 
 
-    <matplotlib.axes._subplots.AxesSubplot at 0x1a1eb5f390>
-
-
 
 
 ![png](/images/platinum-palladium-rhodium_11_1.png)
@@ -61,12 +53,8 @@ To determine if the price of commodity is stretched with respect to historic val
 
 # Platinum-Palladium price ratio
 
-Although palladium is prefered for petrol engines whereas platinum is mainly used in diesel engines, manufacturers could theoretically substitute one metal for another when prices ratios are too streched. Let's look at historic prices ratios between the two metals. 
+Although palladium is preferred for petrol engines whereas platinum is mainly used in diesel engines, manufacturers could theoretically substitute one metal for another when prices ratios are too stretched. Let's look at historic prices ratios between the two metals. 
 
-
-
-
-    Text(0.5, 1.0, 'palladium / platinum price ratio')
 
 
 
@@ -75,16 +63,11 @@ Although palladium is prefered for petrol engines whereas platinum is mainly use
 
 
 * pall / plat ratio is at an all time high ! It has recently showed signed of volatility (end 2019). 
-* The ratio has spent 90% of time below 1, but it is now thre times higher. Is this a market anomaly that will be quickly corrected, or does this reflect the definitive death of diesel engines ? For all I know, commodity prices never reach the sky. 
+* The ratio has spent 90% of time below 1, but it is now three times higher. Is this a market anomaly that will be quickly corrected, or does this reflect the definitive death of diesel engines ? For all I know, commodity prices never reach the sky. 
 
 # Price Variations
 
-
-
-
-    Text(0.5, 1.0, 'Price variation (%)')
-
-
+1-year and 3-months price change (in %) are approaching all-time high. 
 
 
 ![png](/images/platinum-palladium-rhodium_18_1.png)
@@ -93,6 +76,6 @@ Although palladium is prefered for petrol engines whereas platinum is mainly use
 # Conclusion
 Over the last 28 years, three main components of the platinum group metals have shown rapid price bubbles build up and burst: palladium (/6 after the 2001 burst), platinum  and platinum (/8 and /2, respectively, in 2008). 
 
-Looking at multiples to historic prices and price ratios between elements of the metal groups, we showed that a third bubble is building for rhodium and palladium. 
+Looking at multiples to historic prices and price ratios between elements of the metal groups, we showed that a new bubble is building for rhodium and palladium. 
 
-[2020-04-03] : I started shorting rhodium the 2020/01/20 and I now sit with a potential 15% loss. 
+[2020-04-03] : I started shorting palladium the 2020/01/20 and I now sit with a potential 15% loss. 
