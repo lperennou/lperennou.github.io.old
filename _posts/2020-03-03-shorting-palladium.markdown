@@ -3,6 +3,7 @@ layout: post
 title:  "Shorting Palladium"
 categories: [trading, commodities]
 ---
+
 In my first ever trading blog post, I keep track of the thought process that lead me to short palladium. 
 
 # Introduction 
